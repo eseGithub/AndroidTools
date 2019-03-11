@@ -34,4 +34,4 @@
 
 #injecArt  ---> 注入 结合 libhello.so -----> ./injecArt packageName  ---->cat /cat /proc/pid/maps | grep hello
 
-#xposedInstaller.apkk  ---> Android Xposed框架
+#xposedInstaller.apk  ---> Android Xposed框架
