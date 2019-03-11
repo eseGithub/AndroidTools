@@ -33,3 +33,5 @@
 #injectDalvik  ---> 注入 结合 libhello.so -----> ./injectDalvik packageName  ---->cat /cat /proc/pid/maps | grep hello
 
 #injecArt  ---> 注入 结合 libhello.so -----> ./injecArt packageName  ---->cat /cat /proc/pid/maps | grep hello
+
+#XInstaller.apk  ---> Android 4.4Xposed框架
