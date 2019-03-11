@@ -35,3 +35,5 @@
 #injecArt  ---> 注入 结合 libhello.so -----> ./injecArt packageName  ---->cat /cat /proc/pid/maps | grep hello
 
 #xposedInstaller.apk  ---> Android Xposed框架
+
+#jeb2.3.6  ---> 链接：https://pan.baidu.com/s/1qahKuVcjDeGNDvUyklHSuw 提取码：1qvk 
