@@ -36,4 +36,6 @@
 
 #xposedInstaller.apk  ---> Android Xposed框架
 
+#apkScan.zip  ----> apk 加壳扫描
+
 #jeb2.3.6  ---> 链接：https://pan.baidu.com/s/1qahKuVcjDeGNDvUyklHSuw 提取码：1qvk 
