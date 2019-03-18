@@ -18,6 +18,8 @@
 
 #APK_Messenger_v3.0.zip  ----> apk信息查看器
 
+#jeb2.3.6  ---> 链接：https://pan.baidu.com/s/1qahKuVcjDeGNDvUyklHSuw 提取码：1qvk 
+
 #JustTrustMe.apk  --->Xposed框架模块--> 绕过ssl证书校验 可结合hook-helper.apk 使用
 
 #hook-helper.apk  --->Xposed框架模块--> hook apk函数，hook输入框，修改函数返回值等。
@@ -38,4 +40,4 @@
 
 #apkScan.zip  ----> apk 加壳扫描
 
-#jeb2.3.6  ---> 链接：https://pan.baidu.com/s/1qahKuVcjDeGNDvUyklHSuw 提取码：1qvk 
+#Capture.apk  ----> Android抓包工具
