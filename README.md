@@ -45,3 +45,5 @@
 #unshell.apk ---->Android 4.4很强大
 
 #FDex2_1.1.apk   --->dex脱壳工具-->https://www.jianshu.com/p/b20ff2ea37f4
+
+#platform-tools.zip   ---->刷机
