@@ -28,7 +28,9 @@
 
 #hijack5.apk    --->界面劫持（5.0以上）
 
-#MemSpector.apk  --->内存搜索
+#MemSpector.apk  --->内存搜索（5.0以下）
+
+#GameGuardian.zip  --->内存搜索（5.0以上）
 
 #RE_file_list.apk  --->文件搜索
 
@@ -42,8 +44,8 @@
 
 #Capture.apk  ----> Android抓包工具
 
-#unshell.apk ---->Android 4.4很强大
-
 #FDex2_1.1.apk   --->dex脱壳工具-->https://www.jianshu.com/p/b20ff2ea37f4
 
 #platform-tools.zip   ---->刷机
+
+#JustTrustMe1.apk   ---->JustTrustMe加强版
